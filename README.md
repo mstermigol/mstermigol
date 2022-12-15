@@ -5,6 +5,7 @@ Hi, my name is Miguel Jaramillo Arenas. I am a system engineering student with a
 ## 💻 Projects
 
 Currently, I am working on a project called "Sound" which you can check out in my repository. I am always looking to improve and learn more, so I am also currently learning more about mobile app development.
+[Sound]
 
 ## 🎓 Skills
 
