@@ -1,16 +1,22 @@
-### Hi there 👋
+# 🎉 Welcome to my profile!
 
-<!--
-**mstermigol/mstermigol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Miguel Jaramillo Arenas. I am a system engineering student with a passion for coding and a strong desire to learn new things. 
 
-Here are some ideas to get you started:
+## 💻 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am working on a project called "Sound" which you can check out in my repository. I am always looking to improve and learn more, so I am also currently learning more about mobile app development.
+
+## 🎓 Skills
+
+- Frameworks: Django, Flutter
+- Languages: Python, Dart
+
+## 🎹 Fun fact
+
+In my free time, I enjoy playing the piano. 🎹
+
+## 📫 Contact
+
+Feel free to contact me through my GitHub profile or via email at migueljaramillo879@gmail.com. I'm always open to discussing potential projects or collaboration opportunities.
+
+Thanks for stopping by! 🙌
