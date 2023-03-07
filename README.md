@@ -8,7 +8,7 @@ Currently, I am working on a project called "Sound" which you can check out in m
 
 ## 🎓 Skills
 
-- Frameworks: Django, Flutter
+- Frameworks: Flutter
 - Languages: Python, Dart
 
 ## 🎹 Fun fact
