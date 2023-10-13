@@ -4,12 +4,13 @@ Hi, my name is Miguel Jaramillo Arenas. I am a system engineering student with a
 
 ## 💻 Projects
 
-Currently, I am working on a project called "Sound" which you can check out in my repository. I am always looking to improve and learn more, so I am also currently learning more about mobile app development.
-
+- Pong: A Multiplayer Pong game with server and client components writen in C. With a focus in Berkeley sockets with UDP connection protocol.
+- LookUp: A product finder web application developed using the django framework. It streamlines product discovery by comparing offerings across multiple online shopping platforms.
+  
 ## 🎓 Skills
 
-- Frameworks: Flutter
-- Languages: Python, Dart
+- Frameworks: Flutter, Django.
+- Languages: Python, Dart, Java, C.
 
 ## 🎹 Fun fact
 
@@ -17,6 +18,6 @@ In my free time, I enjoy playing the piano. 🎹
 
 ## 📫 Contact
 
-Feel free to contact me through my GitHub profile or via email at migueljaramillo879@gmail.com. I'm always open to discussing potential projects or collaboration opportunities.
+Feel free to contact me through my GitHub profile or via email at migueljaramillo879@gmail.com.
 
 Thanks for stopping by! 🙌
