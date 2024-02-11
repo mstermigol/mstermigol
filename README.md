@@ -9,7 +9,7 @@ Hi, my name is Miguel Jaramillo Arenas. I am a system engineering student with a
   
 ## 🎓 Skills
 
-- Frameworks: Flutter, Django.
+- Frameworks: Flutter.
 - Languages: Python, Dart, Java, C.
 
 ## 🎹 Fun fact
