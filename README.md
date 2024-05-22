@@ -1,6 +1,6 @@
 # 🎉 Welcome to my profile!
 
-Hi, my name is Miguel Jaramillo Arenas. I am a system engineering student with a passion for coding and a strong desire to learn new things. 
+Hey, I’m Miguel Jaramillo Arenas, a system engineering student who’s really into coding and always looking to pick up new skills. I enjoy keeping my code clean and sticking to best practices.
 
 ## 💻 Projects
 
