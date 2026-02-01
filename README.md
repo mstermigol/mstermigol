@@ -1,26 +1,20 @@
-# 🎉 Welcome to my profile!
+# Hi, I'm Miguel Jaramillo Arenas 👋
 
-Hey, I’m Miguel Jaramillo Arenas, a system engineering student who’s really into software and always looking to pick up new skills. I enjoy keeping my code clean and sticking to best practices.
+### 🚀 Backend Developer | Systems Engineer
+**Focus:** Scalable Architectures, Node.js, Python & Cloud.
 
-## 💻 Projects
+---
 
-- Pong: A Multiplayer Pong game with server and client components writen in C. With a focus in Berkeley sockets with UDP connection protocol.
-- LookUp: A product finder web application developed using the django framework. It streamlines product discovery by comparing offerings across multiple online shopping platforms.
-- Temporal Adventures: An online store that sells time travels. Developed using Laravel framework.
-- Botellas de amor: A mobile app and web admin dashboard for Botellas de amor foundation.
-- Sierra Dorada: A website for Sierra Dorada horse club, located in La Estrella, Colombia. Developed using Laravel framework.
-  
-## 🎓 Skills
+## 🛠️ Backend Stack
 
-- Frameworks: Flutter, Django, Laravel, React, Express.
-- Languages: Python, Dart, Java, PHP, Javascript.
+- **Languages:** Python, JavaScript/TypeScript, PHP, C#.
+- **Frameworks:** Django, NestJS, Node.js, Laravel, .NET.
+- **Data & AI:** PostgreSQL, MongoDB, MySQL, LangChain, RAG.
+- **Infrastructure:** Docker, GCP, AWS, CI/CD.
 
-## 🎹 Fun fact
-
-In my free time, I enjoy playing the piano. 🎹
+---
 
 ## 📫 Contact
 
-Feel free to contact me through my GitHub profile or via email at migueljaramillo879@gmail.com.
-
-Thanks for stopping by! 🙌
+- **Email:** migueljaramillo879@gmail.com
+- **LinkedIn:** [Miguel Jaramillo Arenas](https://www.linkedin.com/in/miguel-jaramillo-arenas-2528ba304)
